@@ -1,0 +1,48 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+build
+
+
+# idea config
+.idea
+
+# old stages
+/Coffee Machine Simulator with Java/*
+!/Coffee Machine Simulator with Java/task/
+/Coffee Machine Simulator with Java/task/*
+!/Coffee Machine Simulator with Java/task/src
+
+# Project exclude paths
+/Topics/Break and continue. Branching/Even or odd/out/
+/Topics/Break and continue. Branching/Even or odd/out/production/classes/
+/Topics/Comparing values. Relational operators/Comparing two integers with basic relational operators/out/
+/Topics/Comparing values. Relational operators/Comparing two integers with basic relational operators/out/production/classes/
+/Topics/Conditional statement/Interval/out/
+/Topics/Conditional statement/Interval/out/production/classes/
+/Topics/Conditional statement/Symmetrical number/out/
+/Topics/Conditional statement/Symmetrical number/out/production/classes/
+/Topics/For-loop/Generate an inverted pyramid from asterisks/out/
+/Topics/For-loop/Generate an inverted pyramid from asterisks/out/production/classes/
+/Topics/For-loop/Maximum element divisible by four/out/
+/Topics/For-loop/Maximum element divisible by four/out/production/classes/
+/Topics/For-loop/Numbers divisible by six/out/
+/Topics/For-loop/Numbers divisible by six/out/production/classes/
+/Topics/For-loop/The count of numbers divisible by N/out/
+/Topics/For-loop/The count of numbers divisible by N/out/production/classes/
+/Topics/Integer types and operations/Big numbers/out/
+/Topics/Integer types and operations/Big numbers/out/production/classes/
+/Topics/Integer types and operations/Reading integer numbers/out/
+/Topics/Integer types and operations/Reading integer numbers/out/production/classes/
+/Topics/Integer types and operations/Squirrels and nuts/out/
+/Topics/Integer types and operations/Squirrels and nuts/out/production/classes/
+/Topics/Iterating over arrays/Alphabetical order/out/
+/Topics/Iterating over arrays/Alphabetical order/out/production/classes/
+/Topics/Iterating over arrays/The maximum product of adjacent elements/out/
+/Topics/Iterating over arrays/The maximum product of adjacent elements/out/production/classes/
+/Topics/Static members/Implementing a calculator with operation history tracking/out/
+/Topics/Static members/Implementing a calculator with operation history tracking/out/production/classes/
+/Topics/While and do-while loops/The sum of elements/out/
+/Topics/While and do-while loops/The sum of elements/out/production/classes/
